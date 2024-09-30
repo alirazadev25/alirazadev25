@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">I'm a development student at **SMIT & GIAIC** from **Pakistan**. I'm passionate about web and app development, learning new technologies, and improving my skills daily.</h3>
 
-<img width="400px" align="right" alt="metaverse" src="![image](https://github.com/user-attachments/assets/a8953ea3-a0ae-4424-961c-b54f47aad858)
-
-">
+<img width="400px" align="right" alt="coding!" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirazagit2024&label=Profile%20views&color=0e75b6&style=flat" alt="alirazagit2024" /> </p>
 
