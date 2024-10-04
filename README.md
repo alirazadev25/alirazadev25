@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">I'm a development student at SMIT & GIAIC from Pakistan. I'm passionate about web and app development, learning new technologies, and improving my skills daily.</h3>
 
-<img align="right" alt="coding!" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)">
+<img align="right" alt="coding!" width="400" src="![image](https://github.com/user-attachments/assets/d6422d54-4937-462d-8035-9488d6d8e5e0)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirazagit2024&label=Profile%20views&color=0e75b6&style=flat" alt="alirazagit2024" /> </p>
 
