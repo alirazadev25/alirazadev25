@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript,Next.js and TypeScript**
 
-- 📫 How to reach me **nh31733@gmail.com**
+- 📫 How to reach me **aliraza.developerhub@gmail.com**
 
 - ⚡ Fun Fact **I love exploring new technologies and applying them to real-world problems. In my free time, I enjoy watching movies and learning about AI.**
 
