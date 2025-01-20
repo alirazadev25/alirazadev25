@@ -1,4 +1,4 @@
-![logo](Banner1.png)
+![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">I'm a development student at SMIT & GIAIC from Pakistan. I'm passionate about web and app development, learning new technologies, and improving my skills daily.</h3>
 
