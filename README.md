@@ -1,4 +1,4 @@
-![logo](Banner.png)
+![logo](Bannerr.png)
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">🚀 Next.js & React.js Developer | Building Fast, Scalable & Pixel-Perfect Web Solutions</h3>
 
