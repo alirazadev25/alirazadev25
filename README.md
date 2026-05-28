@@ -8,7 +8,7 @@
 💻 I’m a Web Developer specializing in **Next.js, React.js, Supabase & TailwindCSS**  
 🌍 I help **startups, businesses & entrepreneurs** build fast, SEO-friendly & scalable websites  
 ✨ Delivered projects: **E-commerce Stores, File-Sharing Tools, Movie Platforms, AI Apps & Student Portals**  
-🤝 Trusted by **4+ clients** with testimonials and 2.2K+ LinkedIn network  
+🤝 Trusted by **6+ clients** with testimonials and 2.2K+ LinkedIn network  
 📩 Reach me at **aliraza.developerhub@gmail.com**
 
 ---
