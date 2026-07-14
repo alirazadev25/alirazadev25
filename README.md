@@ -5,6 +5,8 @@
 <p align="center"><strong>Building Scalable Web Experiences, AI-Powered Apps & High-Converting E-commerce Stores</strong></p>
 
 <p align="center">
+  <!-- Visitors Count Badge -->
+<img src="https://komarev.com/ghpvc/?username=alirazadev25&label=PROFILE%20VISITORS&color=0e75b6&style=flat" alt="alirazadev25" />
   <a href="https://aliraza-dev.vercel.app/"><strong>Explore My Portfolio »</strong></a>
 </p>
 
@@ -64,10 +66,7 @@ I maintain a clean, efficient, and scalable codebase. Here is how I categorize m
 ---
 
 ## 📊 GitHub Stats & Activity
-<div align="center">
-
-<!-- Visitors Count Badge -->
-<img src="https://komarev.com/ghpvc/?username=alirazadev25&label=PROFILE%20VISITORS&color=0e75b6&style=flat" alt="alirazadev25" />
+<!-- <div align="center"> -->
 
 <!-- GitHub Trophies -->
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -78,7 +77,7 @@ I maintain a clean, efficient, and scalable codebase. Here is how I categorize m
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=alirazadev25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ali's Stats" />
 <img src="https://streak-stats.demolab.com/?user=alirazadev25&theme=radical&hide_border=true&background=0D1117" alt="Ali's Streak" /> -->
 
-</div>
+<!-- </div> -->
 
 ## 🎯 Top Skills
 <div align="center">
