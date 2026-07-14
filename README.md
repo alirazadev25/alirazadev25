@@ -6,7 +6,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alirazadev25&label=PROFILE%20VISITORS&color=0e75b6&style=flat" alt="alirazadev25" />
-  <a style="margin-bottom: 5px;" href="https://aliraza-dev.vercel.app/">Explore My Portfolio »</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aliraza-dev.vercel.app/">Explore My Portfolio »</a>
 </div>
 
 ---
