@@ -51,7 +51,7 @@ I don't just write code; I build digital solutions that help businesses scale. W
 
 ---
 
-<br/>
+<!-- <br/> -->
 
 ## 🛠 Technical Proficiency
 I maintain a clean, efficient, and scalable codebase. Here is how I categorize my engineering focus:
