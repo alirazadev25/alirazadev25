@@ -2,10 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">Software Engineer & Full-Stack Web Developer</h3>
-<p align="center"><strong>Building Scalable Web Experiences, AI-Powered Apps & High-Converting E-commerce Stores</strong></p>
+<p align="center">
+  <strong>2 Years of Experience</strong> | Building Scalable Web Experiences, AI-Powered Apps & High-Converting E-commerce Stores
+</p>
 
 <div align="center">
-  <a href="https://aliraza-dev.vercel.app/">Explore My Portfolio »</a>
+  <a href="https://aliraza-dev.vercel.app/"><strong>Explore My Portfolio »</strong></a>
 </div>
 
 ---
@@ -13,7 +15,7 @@
 <img align="right" alt="coding!" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me & What I Do
-I don't just write code; I build digital solutions that help businesses scale. With a strong foundation in modern web technologies and an AI-driven workflow, I deliver projects faster without compromising on quality or performance.
+I don't just write code; I build digital solutions that help businesses scale. With **2 years of professional experience** in modern web technologies and an AI-driven workflow, I deliver projects faster without compromising on quality or performance.
 
 - 💡 **Custom Web Apps:** Developing robust applications using the **MERN Stack** and **Next.js**.
 - 🤖 **AI & Modern Workflow:** Leveraging AI tools like **v0.dev** and **Lovable** for rapid UI prototyping and shipping products 10x faster.
