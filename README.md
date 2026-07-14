@@ -5,8 +5,6 @@
 <p align="center"><strong>Building Scalable Web Experiences, AI-Powered Apps & High-Converting E-commerce Stores</strong></p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alirazadev25&label=PROFILE%20VISITORS&color=0e75b6&style=flat" alt="alirazadev25" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aliraza-dev.vercel.app/">Explore My Portfolio »</a>
 </div>
 
