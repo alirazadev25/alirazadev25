@@ -63,7 +63,7 @@ I maintain a clean, efficient, and scalable codebase. Here is how I categorize m
 
 ---
 
-## 📊 GitHub Stats & Activity
+<!-- ## 📊 GitHub Stats & Activity -->
 <!-- <div align="center"> -->
 
 <!-- GitHub Trophies -->
