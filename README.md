@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer & Full-Stack Web Developer</h3>
 <p align="center"><strong>Building Scalable Web Experiences, AI-Powered Apps & High-Converting E-commerce Stores</strong></p>
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=alirazadev25&label=PROFILE%20VISITORS&color=0e75b6&style=flat" alt="alirazadev25" />
   <a href="https://aliraza-dev.vercel.app/" style="font-weight: bold; text-decoration: none;">Explore My Portfolio »</a>
 </div>
