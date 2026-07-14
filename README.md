@@ -54,10 +54,14 @@ I don't just write code; I build digital solutions that help businesses scale. W
 <br/>
 
 ## 📈 GitHub Stats & Activity
+
 <div align="center">
 
-[![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirazadev25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/alirazadev25)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alirazadev25&theme=radical&hide_border=true&background=0D1117)](https://github.com/alirazadev25)
+<!-- Yeh Stats Card hai jo ab load hoga -->
+<img src="https://github-readme-stats.vercel.app/api?username=alirazadev25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Ali's GitHub Stats" />
+
+<!-- Yeh Streak Card hai jo 2026 ke hisab se update hoga -->
+<img src="https://streak-stats.demolab.com/?user=alirazadev25&theme=radical&hide_border=true&background=0D1117&date_format=M j, Y" alt="Ali's GitHub Streak" />
 
 </div>
 
