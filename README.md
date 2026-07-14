@@ -60,9 +60,12 @@ I don't just write code; I build digital solutions that help businesses scale. W
 
 <br/>
 
-### ✍️ Random Dev Quote
+## 📈 GitHub Stats & Activity
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+
+[![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirazadev25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/alirazadev25)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alirazadev25&theme=radical&hide_border=true&background=0D1117)](https://github.com/alirazadev25)
+
 </div>
 
 ---
