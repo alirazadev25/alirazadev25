@@ -1,5 +1,3 @@
-![logo](Bannerr.png)
-
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">Software Engineer & Full-Stack Web Developer</h3>
 <p align="center">
