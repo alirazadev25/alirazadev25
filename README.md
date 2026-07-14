@@ -4,12 +4,18 @@
 <h3 align="center">Software Engineer & Full-Stack Web Developer</h3>
 <p align="center"><strong>Building Scalable Web Experiences, AI-Powered Apps & High-Converting E-commerce Stores</strong></p>
 
-<p align="center">
-  <a href="https://github.com/alirazadev25">
-    <img src="https://komarev.com/ghpvc/?username=alirazadev25&label=PROFILE%20VISITORS&color=0e75b6&style=flat" alt="alirazadev25" style="display:inline-block; vertical-align:middle; margin-right:10px;"/>
-  </a>
-  <a href="https://aliraza-dev.vercel.app/" style="display:inline-block; vertical-align:middle; font-weight:bold; text-decoration:none;">Explore My Portfolio »</a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://komarev.com/ghpvc/?username=alirazadev25&label=PROFILE%20VISITORS&color=0e75b6&style=flat" alt="alirazadev25" />
+      </td>
+      <td align="center" style="border: none; padding-left: 15px;">
+        <a href="https://aliraza-dev.vercel.app/"><strong>Explore My Portfolio »</strong></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
