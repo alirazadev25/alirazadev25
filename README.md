@@ -51,13 +51,6 @@ I don't just write code; I build digital solutions that help businesses scale. W
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirazadev25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ali's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazadev25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
-</div>
-
 <br/>
 
 ## 📈 GitHub Stats & Activity
@@ -66,6 +59,13 @@ I don't just write code; I build digital solutions that help businesses scale. W
 [![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirazadev25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/alirazadev25)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alirazadev25&theme=radical&hide_border=true&background=0D1117)](https://github.com/alirazadev25)
 
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </div>
 
 ---
