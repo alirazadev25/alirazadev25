@@ -53,14 +53,13 @@ I don't just write code; I build digital solutions that help businesses scale. W
 
 <br/>
 
-## 📈 GitHub Stats & Activity
+## 🛠 Technical Proficiency
+I maintain a clean, efficient, and scalable codebase. Here is how I categorize my engineering focus:
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirazadev25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![GitHub Streak](https://streak-stats.demolab.com?user=alirazadev25&theme=radical&hide_border=true&background=0D1117)
-
-</div>
+- 🏗 **Architecture:** Clean Code, Component-Based Design, Responsive UI
+- 🚀 **Performance:** SEO-First Development, Optimized Loading Speeds
+- ⚙️ **AI Integration:** Rapid Prototyping, AI-Driven Code Completion & UI Generation
+- ☁️ **Deployment:** CI/CD Pipelines with Vercel & Netlify
 
 ---
 
