@@ -77,11 +77,6 @@ I maintain a clean, efficient, and scalable codebase. Here is how I categorize m
 
 <!-- </div> -->
 
-## 🎯 Top Skills
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazadev25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
